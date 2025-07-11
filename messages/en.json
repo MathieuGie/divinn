@@ -1,0 +1,11 @@
+{
+  "homepage": {
+    "greeting": "Hello",
+    "text": "Welcome to Divinn",
+    "button": "Learn more"
+  },
+  "about": {
+    "title": "About",
+    "description": "Divinn is a software development company."
+  }
+}
